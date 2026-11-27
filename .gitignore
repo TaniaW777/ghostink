@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# Tools
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Data (downloaded from Hugging Face, never committed)
+data/raw/
+*.csv
+!eval/real_world/*.csv
+
+# Model artifacts: which ones get published is decided in phase 6
+artifacts/*
+!artifacts/.gitkeep
+!artifacts/v2/
+!artifacts/v2/*
+
+# Large model files anywhere
+*.h5
+*.ckpt*
+*.pb
+
+# Personal notes and local tooling (not published)
+commit-plan.md
+progress.md
+reports/review.md
+.claude/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
