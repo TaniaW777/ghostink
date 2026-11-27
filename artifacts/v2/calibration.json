@@ -1,0 +1,9 @@
+{
+  "t_human": 0.23960249722003935,
+  "t_ai": 0.8132888793945305,
+  "min_words": 50,
+  "target_fpr": 0.02,
+  "target_fnr": 0.02,
+  "model_version": "v2",
+  "seed": 42
+}
