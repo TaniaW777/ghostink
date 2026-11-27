@@ -1,0 +1,89 @@
+{
+  "n_raw": 81154,
+  "near_duplicate_key_chars": 200,
+  "counts_per_source_frame": {
+    "recent/train": {
+      "raw": 36744,
+      "after_normalize_drop_empty": 36743,
+      "after_near_duplicates": 28733
+    },
+    "recent/validation": {
+      "raw": 7874,
+      "after_normalize_drop_empty": 7874,
+      "after_near_duplicates": 7421
+    },
+    "recent/test": {
+      "raw": 7874,
+      "after_normalize_drop_empty": 7872,
+      "after_near_duplicates": 7463
+    },
+    "abstracts/train": {
+      "raw": 22930,
+      "after_normalize_drop_empty": 22930,
+      "after_near_duplicates": 22919,
+      "after_title_split_train": 18334,
+      "after_title_split_val": 4585
+    },
+    "abstracts/test": {
+      "raw": 5732,
+      "after_normalize_drop_empty": 5732,
+      "after_near_duplicates": 5731
+    }
+  },
+  "counts_per_split": {
+    "train": {
+      "merged": 47067,
+      "after_near_duplicates": 47067
+    },
+    "val": {
+      "merged": 12006,
+      "after_near_duplicates": 12006,
+      "after_key_in_train_removed": 9081,
+      "after_title_in_train_removed": 9081
+    },
+    "test": {
+      "merged": 13194,
+      "after_near_duplicates": 13194,
+      "after_key_in_train_removed": 10198,
+      "after_title_in_train_removed": 10198
+    }
+  },
+  "balance": {
+    "train": {
+      "abstracts": {
+        "human": 9162,
+        "ai": 9172,
+        "minority_share": 0.49972728264426747
+      },
+      "recent": {
+        "human": 15558,
+        "ai": 13175,
+        "minority_share": 0.45853200153134027
+      }
+    },
+    "val": {
+      "abstracts": {
+        "human": 2292,
+        "ai": 2293,
+        "minority_share": 0.49989094874591056
+      },
+      "recent": {
+        "human": 2666,
+        "ai": 1830,
+        "minority_share": 0.4070284697508897
+      }
+    },
+    "test": {
+      "abstracts": {
+        "human": 2861,
+        "ai": 2866,
+        "minority_share": 0.49956347127641
+      },
+      "recent": {
+        "human": 2669,
+        "ai": 1802,
+        "minority_share": 0.40304182509505704
+      }
+    }
+  }
+}
