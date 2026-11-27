@@ -1,0 +1,46 @@
+# v2 configuration for the "Human or AI?" detector.
+# Full copy of configs/default.yaml plus the v2 data settings (no implicit inheritance).
+# Paths are relative to the repository root.
+
+seed: 42
+
+data:
+  recent_dataset: silentone0725/ai-human-text-detection-v1
+  abstracts_dataset: Ateeqq/AI-and-Human-Generated-Text
+  # Share of the abstracts train split moved to validation (the abstracts set has no validation split).
+  abstracts_val_fraction: 0.2
+  batch_size: 32
+  # Apply human_or_ai.normalize.normalize_text to every text before deduplication.
+  normalize: true
+  # Abstracts validation split grouped by title (GroupShuffleSplit).
+  abstracts_split: by_title
+  # Near-duplicate key: first N characters, lowercased, [a-z0-9] only.
+  near_duplicate_key_chars: 200
+
+vectorizer:
+  max_tokens: 10000
+  sequence_length: 250
+
+model:
+  version: v2
+  embedding_dim: 16
+  dropout: 0.2
+
+training:
+  epochs: 10
+  early_stopping:
+    monitor: val_loss
+    patience: 3
+    restore_best_weights: true
+
+evaluation:
+  threshold: 0.5
+
+decision:
+  target_fpr: 0.02     # au plus 2 % de textes humains accusés à tort (sur la validation)
+  target_fnr: 0.02     # au plus 2 % de textes IA classés « humain » (sur la validation)
+  min_words: 50
+
+paths:
+  artifacts: artifacts
+  reports: reports
