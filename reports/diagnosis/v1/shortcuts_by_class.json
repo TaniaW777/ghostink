@@ -1,0 +1,128 @@
+[
+  {
+    "pattern": "split n't (do n't)",
+    "human % texts": 21.03049421661409,
+    "human mean/text": 0.3893068025560139,
+    "ai % texts": 0.004472471935238607,
+    "ai mean/text": 4.472471935238606e-05,
+    "auc_alone": 0.6051320595286123,
+    "points_to": "human"
+  },
+  {
+    "pattern": "split 's (it 's)",
+    "human % texts": 23.90196554234409,
+    "human mean/text": 0.5144786864029767,
+    "ai % texts": 0.017889887740954426,
+    "ai mean/text": 0.00017889887740954425,
+    "auc_alone": 0.6194305908332949,
+    "points_to": "human"
+  },
+  {
+    "pattern": "split 're/'ll/'ve/'m/'d",
+    "human % texts": 15.303728868397638,
+    "human mean/text": 0.2913936746744318,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5765186443419882,
+    "points_to": "human"
+  },
+  {
+    "pattern": "joined contraction (don't, it's)",
+    "human % texts": 5.1807813637466635,
+    "human mean/text": 0.14858853029200034,
+    "ai % texts": 37.26463616440807,
+    "ai mean/text": 0.8959255780669976,
+    "auc_alone": 0.6604520216649391,
+    "points_to": "ai"
+  },
+  {
+    "pattern": "URL_ placeholder",
+    "human % texts": 7.004772304456846,
+    "human mean/text": 0.10592089298713904,
+    "ai % texts": 0.053669663222863276,
+    "ai mean/text": 0.0008050449483429492,
+    "auc_alone": 0.5347566138691047,
+    "points_to": "human"
+  },
+  {
+    "pattern": "real URL (http)",
+    "human % texts": 0.9746825204238453,
+    "human mean/text": 0.011364555528593383,
+    "ai % texts": 0.049197191287624675,
+    "ai mean/text": 0.0008050449483429492,
+    "auc_alone": 0.5046270106186064,
+    "points_to": "human"
+  },
+  {
+    "pattern": "literal \\n (backslash + n)",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 7.263294422827498,
+    "ai mean/text": 0.47224831164184444,
+    "auc_alone": 0.5363164721141375,
+    "points_to": "ai"
+  },
+  {
+    "pattern": "real line break",
+    "human % texts": 0.6875353878508452,
+    "human mean/text": 0.04776348782657931,
+    "ai % texts": 58.4104834742162,
+    "ai mean/text": 2.0720067981573416,
+    "auc_alone": 0.7888268057111633,
+    "points_to": "ai"
+  },
+  {
+    "pattern": "space before , . ; : ! ? )",
+    "human % texts": 56.30510393917334,
+    "human mean/text": 7.217382512335194,
+    "ai % texts": 3.421441030457534,
+    "ai mean/text": 0.0497338879198533,
+    "auc_alone": 0.7726999113829772,
+    "points_to": "human"
+  },
+  {
+    "pattern": "space after (",
+    "human % texts": 21.18013427161692,
+    "human mean/text": 0.46982932945078054,
+    "ai % texts": 0.049197191287624675,
+    "ai mean/text": 0.0006261460709334049,
+    "auc_alone": 0.6056680263046468,
+    "points_to": "human"
+  },
+  {
+    "pattern": "straight double quote",
+    "human % texts": 15.097468252042384,
+    "human mean/text": 0.653158618458303,
+    "ai % texts": 12.657095576725256,
+    "ai mean/text": 0.5385303457220806,
+    "auc_alone": 0.5120371953383538,
+    "points_to": "human"
+  },
+  {
+    "pattern": "curly quotes",
+    "human % texts": 7.712529321362129,
+    "human mean/text": 0.199425705734854,
+    "ai % texts": 7.791046111185652,
+    "ai mean/text": 0.11534505120980366,
+    "auc_alone": 0.5005477141144568,
+    "points_to": "human"
+  },
+  {
+    "pattern": "words",
+    "human % texts": NaN,
+    "human mean/text": 162.88781040200598,
+    "ai % texts": NaN,
+    "ai mean/text": 172.0771054161635,
+    "auc_alone": 0.582540877726036,
+    "points_to": "ai"
+  },
+  {
+    "pattern": "chars",
+    "human % texts": NaN,
+    "human mean/text": 973.5630510393918,
+    "ai % texts": NaN,
+    "ai mean/text": 1119.5817344246166,
+    "auc_alone": 0.6034940695901222,
+    "points_to": "ai"
+  }
+]
