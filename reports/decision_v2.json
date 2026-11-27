@@ -1,0 +1,30 @@
+{
+  "calibration": {
+    "t_human": 0.23960249722003935,
+    "t_ai": 0.8132888793945305,
+    "min_words": 50,
+    "target_fpr": 0.02,
+    "target_fnr": 0.02,
+    "model_version": "v2",
+    "seed": 42
+  },
+  "rows": [
+    {
+      "evaluation": "test v2",
+      "n": 10198,
+      "n_decided": 8443,
+      "coverage": 0.8279074328299667,
+      "uncertain_share": 0.07099431261031575,
+      "not_enough_text_share": 0.10109825455971759,
+      "fpr_decided": 0.01406799531066823,
+      "fnr_decided": 0.01771182383915749,
+      "accuracy_decided": 0.9841288641478148,
+      "verdict_counts": {
+        "Human": 4279,
+        "AI": 4164,
+        "Uncertain": 724,
+        "Not enough text": 1031
+      }
+    }
+  ]
+}
