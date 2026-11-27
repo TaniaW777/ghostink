@@ -1,0 +1,422 @@
+[
+  {
+    "word": "etc",
+    "score": -164.81683349609375,
+    "side": "human",
+    "human % texts": 4.611650485436893,
+    "ai % texts": 1.0023716829999552
+  },
+  {
+    "word": "basically",
+    "score": -157.57102966308594,
+    "side": "human",
+    "human % texts": 3.8389967637540456,
+    "ai % texts": 0.11634671320535195
+  },
+  {
+    "word": "ie",
+    "score": -152.538818359375,
+    "side": "human",
+    "human % texts": 2.5202265372168284,
+    "ai % texts": 0.24611804716516758
+  },
+  {
+    "word": "supplementary",
+    "score": -146.7490692138672,
+    "side": "human",
+    "human % texts": 2.233009708737864,
+    "ai % texts": 0.053698483017854744
+  },
+  {
+    "word": "conclusions",
+    "score": -133.33326721191406,
+    "side": "human",
+    "human % texts": 5.505663430420712,
+    "ai % texts": 1.1589922584686982
+  },
+  {
+    "word": "isnt",
+    "score": -131.23052978515625,
+    "side": "human",
+    "human % texts": 4.081715210355987,
+    "ai % texts": 0.31324115093748606
+  },
+  {
+    "word": "background",
+    "score": -130.44424438476562,
+    "side": "human",
+    "human % texts": 6.9296116504854375,
+    "ai % texts": 0.9218239584731731
+  },
+  {
+    "word": "probably",
+    "score": -119.45484924316406,
+    "side": "human",
+    "human % texts": 4.0533980582524265,
+    "ai % texts": 0.33114064527677095
+  },
+  {
+    "word": "chapter",
+    "score": -119.12373352050781,
+    "side": "human",
+    "human % texts": 0.8940129449838188,
+    "ai % texts": 0.08054772452678212
+  },
+  {
+    "word": "pretty",
+    "score": -112.09584045410156,
+    "side": "human",
+    "human % texts": 3.434466019417476,
+    "ai % texts": 0.11187183962053071
+  },
+  {
+    "word": "andor",
+    "score": -110.02589416503906,
+    "side": "human",
+    "human % texts": 1.937702265372168,
+    "ai % texts": 0.3535150132008771
+  },
+  {
+    "word": "theyre",
+    "score": -107.55615234375,
+    "side": "human",
+    "human % texts": 3.240291262135922,
+    "ai % texts": 0.25506779433481
+  },
+  {
+    "word": "eg",
+    "score": -107.03339385986328,
+    "side": "human",
+    "human % texts": 1.9498381877022655,
+    "ai % texts": 0.5951581867812235
+  },
+  {
+    "word": "theres",
+    "score": -106.97737121582031,
+    "side": "human",
+    "human % texts": 4.065533980582525,
+    "ai % texts": 0.21479393207141897
+  },
+  {
+    "word": "essentially",
+    "score": -106.61878967285156,
+    "side": "human",
+    "human % texts": 1.5898058252427183,
+    "ai % texts": 0.39826374904908934
+  },
+  {
+    "word": "got",
+    "score": -102.21490478515625,
+    "side": "human",
+    "human % texts": 2.6820388349514563,
+    "ai % texts": 0.14767082829910055
+  },
+  {
+    "word": "edit",
+    "score": -101.60482788085938,
+    "side": "human",
+    "human % texts": 2.204692556634304,
+    "ai % texts": 0.08502259811160334
+  },
+  {
+    "word": "nt",
+    "score": -99.27129364013672,
+    "side": "human",
+    "human % texts": 0.9951456310679612,
+    "ai % texts": 0.0044748735848212295
+  },
+  {
+    "word": "stuff",
+    "score": -97.88278198242188,
+    "side": "human",
+    "human % texts": 2.1844660194174756,
+    "ai % texts": 0.07159797735713967
+  },
+  {
+    "word": "although",
+    "score": -96.57870483398438,
+    "side": "human",
+    "human % texts": 4.684466019417475,
+    "ai % texts": 1.8346981697767037
+  },
+  {
+    "word": "arent",
+    "score": -95.52745819091797,
+    "side": "human",
+    "human % texts": 2.467637540453074,
+    "ai % texts": 0.20136931131695532
+  },
+  {
+    "word": "\u00d7",
+    "score": -87.90037536621094,
+    "side": "human",
+    "human % texts": 0.412621359223301,
+    "ai % texts": 0.022374367924106145
+  },
+  {
+    "word": "whatever",
+    "score": -86.60313415527344,
+    "side": "human",
+    "human % texts": 1.6585760517799353,
+    "ai % texts": 0.21926880565624024
+  },
+  {
+    "word": "sort",
+    "score": -86.48110961914062,
+    "side": "human",
+    "human % texts": 1.5129449838187703,
+    "ai % texts": 0.10292209245088826
+  },
+  {
+    "word": "here",
+    "score": -85.18904113769531,
+    "side": "human",
+    "human % texts": 9.037216828478964,
+    "ai % texts": 4.452499216897123
+  },
+  {
+    "word": "assuming",
+    "score": -85.134033203125,
+    "side": "human",
+    "human % texts": 0.7807443365695793,
+    "ai % texts": 0.06712310377231842
+  },
+  {
+    "word": "0001",
+    "score": -85.02005004882812,
+    "side": "human",
+    "human % texts": 1.1893203883495145,
+    "ai % texts": 0.0626482301874972
+  },
+  {
+    "word": "obviously",
+    "score": -84.99905395507812,
+    "side": "human",
+    "human % texts": 0.9749190938511327,
+    "ai % texts": 0.035798988678569836
+  },
+  {
+    "word": "p",
+    "score": -84.56871032714844,
+    "side": "human",
+    "human % texts": 4.142394822006472,
+    "ai % texts": 0.4967109679151564
+  },
+  {
+    "word": "whereas",
+    "score": -84.11306762695312,
+    "side": "human",
+    "human % texts": 2.115695792880259,
+    "ai % texts": 0.3893140018794469
+  },
+  {
+    "word": "presents",
+    "score": 174.29653930664062,
+    "side": "ai",
+    "human % texts": 0.6674757281553397,
+    "ai % texts": 10.484628809236138
+  },
+  {
+    "word": "examines",
+    "score": 141.38861083984375,
+    "side": "ai",
+    "human % texts": 0.1901294498381877,
+    "ai % texts": 6.484091824405961
+  },
+  {
+    "word": "overall",
+    "score": 140.41673278808594,
+    "side": "ai",
+    "human % texts": 3.2241100323624594,
+    "ai % texts": 12.780238958249429
+  },
+  {
+    "word": "towards",
+    "score": 130.05303955078125,
+    "side": "ai",
+    "human % texts": 1.6828478964401297,
+    "ai % texts": 11.236407571486104
+  },
+  {
+    "word": "findings",
+    "score": 129.2884979248047,
+    "side": "ai",
+    "human % texts": 4.555016181229774,
+    "ai % texts": 15.093748601602005
+  },
+  {
+    "word": "investigates",
+    "score": 127.30184936523438,
+    "side": "ai",
+    "human % texts": 0.13754045307443366,
+    "ai % texts": 4.394325860294447
+  },
+  {
+    "word": "important",
+    "score": 114.86865234375,
+    "side": "ai",
+    "human % texts": 8.078478964401295,
+    "ai % texts": 29.97717814471741
+  },
+  {
+    "word": "seeks",
+    "score": 111.57853698730469,
+    "side": "ai",
+    "human % texts": 0.14563106796116504,
+    "ai % texts": 3.0071150489998657
+  },
+  {
+    "word": "treatments",
+    "score": 109.45423126220703,
+    "side": "ai",
+    "human % texts": 0.9546925566343042,
+    "ai % texts": 6.506466192330067
+  },
+  {
+    "word": "utilizing",
+    "score": 105.70552825927734,
+    "side": "ai",
+    "human % texts": 0.3074433656957929,
+    "ai % texts": 3.2398084754105696
+  },
+  {
+    "word": "additionally",
+    "score": 105.68421936035156,
+    "side": "ai",
+    "human % texts": 1.1245954692556634,
+    "ai % texts": 6.135051684789905
+  },
+  {
+    "word": "explores",
+    "score": 101.27226257324219,
+    "side": "ai",
+    "human % texts": 0.16990291262135923,
+    "ai % texts": 3.5575244999328772
+  },
+  {
+    "word": "located",
+    "score": 100.53726196289062,
+    "side": "ai",
+    "human % texts": 0.7928802588996763,
+    "ai % texts": 3.1145120150355754
+  },
+  {
+    "word": "managing",
+    "score": 100.51345825195312,
+    "side": "ai",
+    "human % texts": 0.2872168284789644,
+    "ai % texts": 2.4343312301427487
+  },
+  {
+    "word": "comprehensive",
+    "score": 99.57080078125,
+    "side": "ai",
+    "human % texts": 1.0679611650485437,
+    "ai % texts": 6.282722513089005
+  },
+  {
+    "word": "including",
+    "score": 96.81571960449219,
+    "side": "ai",
+    "human % texts": 7.7872168284789645,
+    "ai % texts": 19.08533583926254
+  },
+  {
+    "word": "providing",
+    "score": 96.71609497070312,
+    "side": "ai",
+    "human % texts": 1.27831715210356,
+    "ai % texts": 7.607285094196089
+  },
+  {
+    "word": "type",
+    "score": 96.5657958984375,
+    "side": "ai",
+    "human % texts": 4.401294498381877,
+    "ai % texts": 9.965543473396876
+  },
+  {
+    "word": "sorry",
+    "score": 96.33071899414062,
+    "side": "ai",
+    "human % texts": 0.4773462783171521,
+    "ai % texts": 1.31113796035262
+  },
+  {
+    "word": "paper",
+    "score": 91.76141357421875,
+    "side": "ai",
+    "human % texts": 2.3422330097087376,
+    "ai % texts": 18.548351009083994
+  },
+  {
+    "word": "indicating",
+    "score": 91.29850769042969,
+    "side": "ai",
+    "human % texts": 0.8697411003236246,
+    "ai % texts": 1.973419250906162
+  },
+  {
+    "word": "intricate",
+    "score": 90.43103790283203,
+    "side": "ai",
+    "human % texts": 0.05258899676375405,
+    "ai % texts": 0.644381796214257
+  },
+  {
+    "word": "ultimately",
+    "score": 90.3540267944336,
+    "side": "ai",
+    "human % texts": 0.7888349514563107,
+    "ai % texts": 4.850762965946212
+  },
+  {
+    "word": "implications",
+    "score": 89.48774719238281,
+    "side": "ai",
+    "human % texts": 1.0315533980582525,
+    "ai % texts": 7.401440909294313
+  },
+  {
+    "word": "aims",
+    "score": 88.72256469726562,
+    "side": "ai",
+    "human % texts": 1.0760517799352751,
+    "ai % texts": 5.835235154606883
+  },
+  {
+    "word": "leading",
+    "score": 86.57278442382812,
+    "side": "ai",
+    "human % texts": 1.8244336569579287,
+    "ai % texts": 5.580167360272072
+  },
+  {
+    "word": "exploring",
+    "score": 86.27790832519531,
+    "side": "ai",
+    "human % texts": 0.25485436893203883,
+    "ai % texts": 2.425381482973106
+  },
+  {
+    "word": "variety",
+    "score": 85.74761962890625,
+    "side": "ai",
+    "human % texts": 1.5493527508090614,
+    "ai % texts": 7.598335347026447
+  },
+  {
+    "word": "novel",
+    "score": 85.60706329345703,
+    "side": "ai",
+    "human % texts": 3.814724919093851,
+    "ai % texts": 10.507003177160247
+  },
+  {
+    "word": "insights",
+    "score": 85.59115600585938,
+    "side": "ai",
+    "human % texts": 0.8495145631067961,
+    "ai % texts": 6.868930952700586
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "pattern": "split n't (do n't)",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "split 's (it 's)",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "split 're/'ll/'ve/'m/'d",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "joined contraction (don't, it's)",
+    "human % texts": 44.63996763754045,
+    "human mean/text": 1.40331715210356,
+    "ai % texts": 40.448382333199085,
+    "ai mean/text": 0.9400814426992438,
+    "auc_alone": 0.5313773365827577,
+    "points_to": "human"
+  },
+  {
+    "pattern": "URL_ placeholder",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "real URL (http)",
+    "human % texts": 0.032362459546925564,
+    "human mean/text": 0.00036407766990291263,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5001618122977347,
+    "points_to": "human"
+  },
+  {
+    "pattern": "literal \\n (backslash + n)",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "real line break",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "space before , . ; : ! ? )",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "space after (",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "straight double quote",
+    "human % texts": 17.313915857605178,
+    "human mean/text": 0.7353155339805825,
+    "ai % texts": 13.21877656956191,
+    "ai mean/text": 0.5528258826688146,
+    "auc_alone": 0.5203102130083271,
+    "points_to": "human"
+  },
+  {
+    "pattern": "curly quotes",
+    "human % texts": 0.0,
+    "human mean/text": 0.0,
+    "ai % texts": 0.0,
+    "ai mean/text": 0.0,
+    "auc_alone": 0.5,
+    "points_to": "-"
+  },
+  {
+    "pattern": "words",
+    "human % texts": NaN,
+    "human mean/text": 153.52305825242718,
+    "ai % texts": NaN,
+    "ai mean/text": 172.33615250369178,
+    "auc_alone": 0.6052083699903682,
+    "points_to": "ai"
+  },
+  {
+    "pattern": "chars",
+    "human % texts": NaN,
+    "human mean/text": 962.1347087378641,
+    "ai % texts": NaN,
+    "ai mean/text": 1117.3513223251443,
+    "auc_alone": 0.6076000469137637,
+    "points_to": "ai"
+  }
+]

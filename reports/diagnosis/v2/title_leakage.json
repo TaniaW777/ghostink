@@ -1,0 +1,14 @@
+{
+  "val": {
+    "abstracts": 4585,
+    "title_also_in_train": 0,
+    "share": 0.0
+  },
+  "test": {
+    "abstracts": 5727,
+    "title_also_in_train": 0,
+    "share": 0.0
+  },
+  "train_titles_with_both_labels": 9162,
+  "train_unique_titles": 9172
+}
