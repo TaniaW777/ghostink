@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "human-or-ai"
+version = "0.1.0"
+description = "A from-scratch neural detector of AI-generated text, built with TensorFlow/Keras."
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{ name = "Wendtoin Filomène Tania ZABRE" }]
+
+[project.urls]
+Homepage = "https://github.com/TaniaW777/ghostink"
+Repository = "https://github.com/TaniaW777/ghostink"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+src = ["src", "tests"]
+extend-exclude = ["notebooks"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
