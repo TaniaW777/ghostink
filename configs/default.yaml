@@ -1,0 +1,33 @@
+# Default configuration for the "Human or AI?" detector.
+# Paths are relative to the repository root.
+
+seed: 42
+
+data:
+  recent_dataset: silentone0725/ai-human-text-detection-v1
+  abstracts_dataset: Ateeqq/AI-and-Human-Generated-Text
+  # Share of the abstracts train split moved to validation (the abstracts set has no validation split).
+  abstracts_val_fraction: 0.2
+  batch_size: 32
+
+vectorizer:
+  max_tokens: 10000
+  sequence_length: 250
+
+model:
+  embedding_dim: 16
+  dropout: 0.2
+
+training:
+  epochs: 10
+  early_stopping:
+    monitor: val_loss
+    patience: 3
+    restore_best_weights: true
+
+evaluation:
+  threshold: 0.5
+
+paths:
+  artifacts: artifacts
+  reports: reports
